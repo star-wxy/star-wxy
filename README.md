@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Deep Learning.
+- 📫 How to reach me: 1245573253@qq.com.
+- 😄 Well,I'm now studying at Hunan University.
+- 🔭 I’m currently interesting in football, music and films.
